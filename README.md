@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DabSkullz
+- 👋 Hi, I’m Arnav Mehta
 - 👀 I’m interested in Computers!!
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me, Anything you Know
